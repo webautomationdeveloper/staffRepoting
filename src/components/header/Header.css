@@ -1,0 +1,26 @@
+
+.header_container{
+    background-color: lightgray;
+    color: white;
+    padding: 10px 15px;
+    position: sticky;
+}
+
+.header_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__left{
+    font-size: 24px;
+    font-weight: 900;
+    color: blue;
+}
+.navBar__item{
+    color: black;
+    cursor: pointer;
+    margin: 10px;
+   font-size: 16px;
+   font-weight: 400;
+    
+}

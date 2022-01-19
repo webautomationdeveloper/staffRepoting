@@ -1,0 +1,9 @@
+.Appcontainer{
+    display: flex;
+}
+.Container__Sidebar{
+    flex: 1;
+}
+.Container__content{
+    flex: 4;
+}
