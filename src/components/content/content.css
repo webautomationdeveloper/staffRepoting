@@ -1,0 +1,10 @@
+.chartContent {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+

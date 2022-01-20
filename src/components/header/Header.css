@@ -4,8 +4,14 @@
     color: white;
     padding: 10px 15px;
     position: sticky;
+    
 }
-
+.header {
+    position: sticky;
+    top: 0;
+    background: #0000;
+    z-index: 99999;
+}
 .header_container{
     display: flex;
     align-items: center;
